@@ -1,12 +1,12 @@
 Examples of Non-Humanoid, Structurally Distorted, and Non-Physical Artifacts
 
 ![Example1](1.png) 
-**Prompt:** []
+**Artifact type**: Blur/text degradation, **Prompt:** ["a yellow sticky note with 'BUY MILK' written on it" - ]
 ![Example2](2.png) 
-**Prompt:** []
+**Artifact type**: Artifact type: Structural distortion (object geometry/bottle shape inconsistencies), **Prompt:** ["bottles"]
 ![Example3](3.png) 
-**Prompt:** []
+**Artifact type**: Artifact type: Non-physical composition (floating object / violated physics), **Prompt:** ["a pitcher of orange juice"]
 ![Example4](4.png) 
-**Prompt:** []
+**Artifact type**: Artifact type: Unrealistic scene / physical inconsistency (levitation, unsupported object), **Prompt:** ["a black towel with a dog on it"]
 ![Example5](5.png) 
-**Prompt:** []
+**Artifact type**: Artifact type: Structural inconsistency (object configuration, e.g., incorrect number of elements like straws) **Prompt:** ["a lovestruck cup of boba"]
